@@ -14,6 +14,12 @@ namespace QUIZ09092019
 
             kelas.Luas_Lingkaran();
 
+            BagunRuang lele = new BagunRuang();
+
+            lele.volume_balok();
+
+            lele.volume_kubus();
+
         }
     }
 }
